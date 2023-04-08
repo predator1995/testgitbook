@@ -1,0 +1,7 @@
+{
+    "title": "My GitBook",
+    "plugins": ["expandable-chapters"],
+    "pluginsConfig": {
+      "crisp": "<script type='text/javascript'>window.$crisp=[];window.CRISP_WEBSITE_ID='af947efb-33cf-4718-8b04-c81003f097de';(function(){d=document;s=d.createElement('script');s.src='https://client.crisp.chat/l.js';s.async=1;d.getElementsByTagName('head')[0].appendChild(s);})();</script>"
+    }
+  }
